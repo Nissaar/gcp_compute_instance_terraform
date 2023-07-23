@@ -1,0 +1,11 @@
+region=
+project=
+zone=
+vpc_name=
+subnet_name=
+ip_cidr_range=
+instance_name=
+machine_type=
+image=
+size=
+disk_label=

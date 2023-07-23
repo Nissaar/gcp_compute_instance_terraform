@@ -1,0 +1,11 @@
+variable "region" {}
+variable "project" {}
+variable "zone" {}
+variable "vpc_name" {}
+variable "subnet_name" {}
+variable "ip_cidr_range" {}
+variable "instance_name" {}
+variable "machine_type" {}
+variable "image" {}
+variable "size" {}
+variable "disk_label" {}
